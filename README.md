@@ -23,10 +23,10 @@ This is an example of what results from running the script using [@macklemore](h
 
 `python twitter-persona.py [redacted_key] [redacted_secret] "Macklemore" 500 False`
 
-`Average Polarity of Tweets: 0.151289301423`
-`Average Subjectivity of Tweets: 0.347877407229`
-`Most Negative Tweet: I picked the wrong night to drink 2 energy drinks.... Can't sleep.  Can't wait.  LETS GO!!!!!!! #seahawks http://t.co/YHfWiM7t4L`
-`Most Positive Tweet: Leonardo blocking out the haters. He can't see you. My best friend. #pals #animals&amp;me #fox #vintageGǪ http://t.co/LEDfOuEJTW`
-`Most Objective Tweet: Seahawks plane headed to NYC.....TURN UP!!!!!!! #superbowl #seahawks http://t.co/fM6JpfnT7H`
-`Most Subjective Tweet: SEATTLE... I'm pumped to announce that for our Key Arena show on the 11th we're bringing out Sir Mix-AGǪ http://t.co/v3XMmvD6hT`
+    Average Polarity of Tweets: 0.151289301423
+    Average Subjectivity of Tweets: 0.347877407229
+    Most Negative Tweet: I picked the wrong night to drink 2 energy drinks.... Can't sleep.  Can't wait.  LETS GO!!!!!!! #seahawks http://t.co/YHfWiM7t4L
+    Most Positive Tweet: Leonardo blocking out the haters. He can't see you. My best friend. #pals #animals&amp;me #fox #vintageGǪ http://t.co/LEDfOuEJTW
+    Most Objective Tweet: Seahawks plane headed to NYC.....TURN UP!!!!!!! #superbowl #seahawks http://t.co/fM6JpfnT7H
+    Most Subjective Tweet: SEATTLE... I'm pumped to announce that for our Key Arena show on the 11th we're bringing out Sir Mix-AGǪ http://t.co/v3XMmvD6hT
 
