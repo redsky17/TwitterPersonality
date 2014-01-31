@@ -8,6 +8,10 @@ Prerequisites
 1. Install the Natural Language Toolkit from [its website](http://nltk.org)
  * Make sure you install all of NLTK's prerequisites
 2. Install TextBlob from [its website](http://textblob.readthedocs.org/en/latest/)
+3. Install Tweepy using the [instructions on their GitHub page](https://github.com/tweepy/tweepy)
+ * You can either use `pip install tweepy` or 
+ *    git clone https://github.com/tweepy/tweepy.git
+ *    python setup.py install
 
 Using
 -----
