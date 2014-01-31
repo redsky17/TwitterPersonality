@@ -45,4 +45,4 @@ if __name__ == "__main__":
     averagePolarity = averagePolarity / len(sortedByPolarity)
     averageSubjectivity = averageSubjectivity / len(sortedByPolarity)
     
-    print "Average Polarity of Tweets: " + str(averagePolarity) + "\nAverage Subjectivity of Tweets: " + str(averageSubjectivity) + "\nMost Negative Tweet: " + str(sortedByPolarity[0][0]) + "\nMost Positive Tweet: " + str(sortedByPolarity[-1][0]) + "\nMost Objective Tweet: " + str(sortedBySubjectivity[0][0]) + "\nMost Subjective Tweet: " + str(sortedBySubjectivity[-1][0])
+    print "Average Polarity of Tweets: " + str(averagePolarity) + "\nAverage Subjectivity of Tweets: " + str(averageSubjectivity) + "\nMost Negative Tweet: " + str(sortedByPolarity[0][0].encode('utf-8')) + "\nMost Positive Tweet: " + str(sortedByPolarity[-1][0].encode('utf-8')) + "\nMost Objective Tweet: " + str(sortedBySubjectivity[0][0].encode('utf-8')) + "\nMost Subjective Tweet: " + str(sortedBySubjectivity[-1][0].encode('utf-8'))
